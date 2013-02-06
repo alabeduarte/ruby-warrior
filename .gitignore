@@ -1,4 +1,6 @@
 tmp/**/*
+*.swp
+*.swo
 *.gem
 .project
 .buildpath
